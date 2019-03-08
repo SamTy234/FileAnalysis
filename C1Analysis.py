@@ -1,5 +1,13 @@
+import os
 
-file_path = "/home/sammy/Documents/C1/easy-chart-1 (c1).txt"
+# directory = "/home/sammy/Documents/C1/easy-chart-17"
+file_paths = []
+
+# for filename in os.listdir(directory):
+#     file_path = directory + filename
+#     file_paths.append(file_path)
+file_path = "/home/sammy/Documents/C1/easy-chart-50 (c1).txt"
+
 
 def ExtractNotes(file_path):
 
